@@ -60,6 +60,7 @@ inoremap [ []<esc>i
 nnoremap _v :e $MYVIMRC<CR>
 nnoremap _u :source $MYVIMRC<CR>
 
+set splitright
 set relativenumber
 set tw=792034
 set cc=80
