@@ -51,6 +51,9 @@ if has('syntax') && has('eval')
 endif
 
 "Custom Mappings
+noremap <C-E> 3<C-E>
+noremap <C-Y> 3<C-Y>
+
 inoremap jj <esc>
 inoremap { {<CR>}<esc>O
 
